@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Project One",
+    "description": "A brief description of this amazing project. It solves a real-world problem with a clean and intuitive user interface.",
+    "imageUrl": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1470&auto=format&fit=crop",
+    "technologies": ["HTML5", "CSS3", "JavaScript", "React"],
+    "liveUrl": "#",
+    "githubUrl": "#"
+  },
+  {
+    "title": "Project Two",
+    "description": "This project showcases advanced back-end skills, featuring a robust API and database integration for a seamless data flow.",
+    "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=1470&auto=format&fit=crop",
+    "technologies": ["Node.js", "Express", "MongoDB", "JWT"],
+    "liveUrl": "#",
+    "githubUrl": "#"
+  },
+  {
+    "title": "Project Three",
+    "description": "A full-stack application that combines a sleek front-end with a powerful back-end, built with modern development practices.",
+    "imageUrl": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?q=80&w=1470&auto=format&fit=crop",
+    "technologies": ["Vue.js", "Bootstrap", "Python", "Django"],
+    "liveUrl": "#",
+    "githubUrl": "#"
+  }
+]
